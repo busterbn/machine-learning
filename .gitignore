@@ -3,4 +3,6 @@
 !.gitignore
 
 # Added files start with !
+!project-work/
 !Toolbox_Python/
+!README.md
