@@ -1,8 +1,10 @@
 # Ignore everything by default
 *
-!.gitignore
+
+# Added directories start with !
+!project-work/
+!Exercises/
 
 # Added files start with !
-!project-work/
-!Toolbox_Python/
+!.gitignore
 !README.md
