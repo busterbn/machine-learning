@@ -1,5 +1,6 @@
 # Ignore everything by default
 *
-
-# Allow version control for the .gitignore itself
 !.gitignore
+
+# Added files start with !
+!Toolbox_Python/
