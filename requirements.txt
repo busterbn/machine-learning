@@ -4,3 +4,7 @@ xlrd==2.0.1
 pandas==2.2.2
 seaborn==0.13.2
 matplotlib==3.9.2
+scipy==1.14.1
+ipykernel==6.29.5
+torch==2.4.0
+dtuimldmtools==0.1.5
