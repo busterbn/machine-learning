@@ -7,4 +7,6 @@
 
 # Added files start with !
 !.gitignore
+!Justfile
 !README.md
+!requirements.txt
